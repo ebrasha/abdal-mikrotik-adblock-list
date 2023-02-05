@@ -1,5 +1,5 @@
-# Abdal Adblock List
-AdBlock list for security stuff
+# Abdal Mikrotik Adblock List
+AdBlock list for security stuff in mikrotik
 
 
  
