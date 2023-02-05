@@ -11,6 +11,8 @@
 ## > localhost
 
 /ip dns static
+add address=127.0.0.1 name=i.imgur.com
+add address=127.0.0.1 name=clk.asia
 add address=127.0.0.1 name=localhost
 add address=127.0.0.1 name=crash.163.com
 add address=127.0.0.1 name=crashlytics.163.com
