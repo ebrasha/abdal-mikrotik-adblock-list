@@ -11,6 +11,8 @@
 ## > localhost
 
 /ip dns static
+add address=127.0.0.1 name=tasvir.yektanet.com
+add address=127.0.0.1 name=ck.yektanet.com
 add address=127.0.0.1 name=beta.kaprila.com
 add address=127.0.0.1 name=panel.kaprila.com
 add address=127.0.0.1 name=kaprila.com
