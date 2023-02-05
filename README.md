@@ -11,11 +11,12 @@ https://raw.githubusercontent.com/ebrasha/abdal-mikrotik-adblock-list/main/abdal
 # How to use in  Mikrotik
 ### Run these lines in the Mikrotik terminal
  
+ ```
 /ip firewall nat
 add action=redirect chain=dstnat dst-port=53 in-interface=bridge protocol=udp
+```
 
-
- 
+ ```
 /system script
  add name=adblock policy=\
  ftp,reboot,read,write,policy,test,password,sniff,sensitive,romon source=":\
@@ -95,7 +96,7 @@ add action=redirect chain=dstnat dst-port=53 in-interface=bridge protocol=udp
  \n/system script run adblock" policy=\
  ftp,reboot,read,write,policy,test,password,sniff,sensitive,romon \
  start-time=startup
- 
+ ```
  
  
  
