@@ -11,6 +11,10 @@
 ## > localhost
 
 /ip dns static
+add address=127.0.0.1 name=panel.kaprila.com
+add address=127.0.0.1 name=kaprila.com
+add address=127.0.0.1 name=adclick.g.doubleclick.net
+add address=127.0.0.1 name=doubleclick.net
 add address=127.0.0.1 name=i.imgur.com
 add address=127.0.0.1 name=clk.asia
 add address=127.0.0.1 name=localhost
