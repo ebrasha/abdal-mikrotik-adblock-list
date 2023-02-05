@@ -2,6 +2,13 @@
 AdBlock list for security stuff in mikrotik
 
 
+# list link
+
+```
+https://raw.githubusercontent.com/ebrasha/abdal-mikrotik-adblock-list/main/abdal-ad-block-list.txt
+```
+
+
  
 
 ## ❤️ Donation 
